@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/ogr.jpg</file>
+        <file>images/ders.jpg</file>
+        <file>images/notlar.jpg</file>
+    </qresource>
+</RCC>
