@@ -1,1 +1,1 @@
-# 2021_Gorsel_Programlama
+# Gorsel_Programlama
